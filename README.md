@@ -17,7 +17,6 @@
 
 <div>
   <ul>
-    <li><p><span style="font-size: 24px;">📆</span> Age: <b>22</b></p></li>
     <li><p><span style="font-size: 24px;">:mortar_board:</span> Study: <b>Polytech Montpellier</b></p></li>
     <li><p><span style="font-size: 24px;">🤝</span> Languages: <b>:fr: French - :us: English - :es: Spanish</b></p></li>
   </ul>
