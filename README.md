@@ -101,5 +101,6 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-albaut&theme=dark)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-albaut&theme=dark)
+  <br>
+  ![GitHub Top languages](https://github-stats-deploy-tau.vercel.app/api/top-langs/?username=bastian-albaut&hide=CSS,HTML,SCSS&langs_count=6&theme=dark)
