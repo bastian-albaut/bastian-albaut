@@ -80,6 +80,7 @@
 
   <h3>Tools</h3>
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -102,5 +103,7 @@
 
 ### :fire: My Stats :
   ![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-albaut&theme=dark)
-  <br>
+  <br><br>
   ![GitHub Top languages](https://github-stats-deploy-tau.vercel.app/api/top-langs/?username=bastian-albaut&hide=CSS,HTML,SCSS&langs_count=6&theme=dark)
+  <br><br>
+  ![GitHub Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastian-albaut&theme=dark&utcOffset=1)
