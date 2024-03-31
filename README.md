@@ -29,7 +29,7 @@ Below, you'll find some of my favorite projects that I've had the pleasure of wo
 
 Feel free to scroll down and take a closer look at what I've built. Your feedback and questions are always welcome!
 
-[👇 Check out my projects below! 👇](#My-Stats)
+[👇 Check out my projects below! 👇](#fire-my-stats)
 
 <br/>
 
