@@ -3,7 +3,7 @@
     Hi, I'm Bastian Albaut
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/bastian-albaut-88281a16b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
 </div>
 
 <div>
@@ -22,9 +21,20 @@
   </ul>
 </div>
 
----
+<br/>
+
+<h2>:mag_right: Explore My Projects</h2>
+
+Below, you'll find some of my favorite projects that I've had the pleasure of working on. Each project showcases different skills and challenges I've encountered and overcome. From backend to frontend development, mobile applications, and beyond, I've explored a variety of technologies and domains. :rocket:
+
+Feel free to scroll down and take a closer look at what I've built. Your feedback and questions are always welcome!
+
+[👇 Check out my projects below! 👇](#My-Stats)
+
+<br/>
+
 <div id="skillsSection">
-  <h2>:hammer_and_wrench: Languages and Tools : </h2>
+  <h2>:hammer_and_wrench: Languages and Tools</h2>
   <h3>Programming Languages</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -99,9 +109,9 @@
   </div>
 </div>
 
----
+<br/>
 
-### :fire: My Stats :
+## :fire: My Stats
   ![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-albaut&theme=dark)
   <br><br>
   ![GitHub Top languages](https://github-stats-deploy-tau.vercel.app/api/top-langs/?username=bastian-albaut&hide=CSS,HTML,SCSS&langs_count=6&theme=dark)
