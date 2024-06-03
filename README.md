@@ -111,6 +111,7 @@
   <br><br>
   ![GitHub Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastian-albaut&theme=dark&utcOffset=1)
 
+<br/>
 
 <h2>:mag_right: Explore My Projects</h2>
 
