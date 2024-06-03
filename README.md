@@ -23,12 +23,6 @@
 
 <br/>
 
-<h2>:mag_right: Explore My Projects</h2>
-
-Below, you'll find some of my favorite projects that I've worked on. Each project showcases different skills and challenges I've tackled. From backend to frontend development, mobile apps, and more, I've explored a variety of technologies and domains.
-
-Feel free to scroll down and take a look and share your feedback or questions! 🚀
-
 <div id="skillsSection">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
   <h3>Programming Languages</h3>
@@ -116,3 +110,11 @@ Feel free to scroll down and take a look and share your feedback or questions! �
   ![GitHub Top languages](https://github-stats-deploy-tau.vercel.app/api/top-langs/?username=bastian-albaut&hide=CSS,HTML,SCSS&langs_count=6&theme=dark)
   <br><br>
   ![GitHub Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastian-albaut&theme=dark&utcOffset=1)
+
+
+<h2>:mag_right: Explore My Projects</h2>
+
+Below, you'll find some of my favorite projects that I've worked on. Each project showcases different skills and challenges I've tackled. From backend to frontend development, mobile apps, and more, I've explored a variety of technologies and domains.
+
+Feel free to scroll down and take a look and share your feedback or questions! 🚀
+
