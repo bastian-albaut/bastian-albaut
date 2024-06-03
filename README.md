@@ -25,13 +25,9 @@
 
 <h2>:mag_right: Explore My Projects</h2>
 
-Below, you'll find some of my favorite projects that I've had the pleasure of working on. Each project showcases different skills and challenges I've encountered and overcome. From backend to frontend development, mobile applications, and beyond, I've explored a variety of technologies and domains. :rocket:
+Below, you'll find some of my favorite projects that I've worked on. Each project showcases different skills and challenges I've tackled. From backend to frontend development, mobile apps, and more, I've explored a variety of technologies and domains.
 
-Feel free to scroll down and take a closer look at what I've built. Your feedback and questions are always welcome!
-
-[👇 Check out my projects below! 👇](#fire-my-stats)
-
-<br/>
+Feel free to scroll down and take a look and share your feedback or questions! 🚀
 
 <div id="skillsSection">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
