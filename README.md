@@ -63,7 +63,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresqlSQL"  alt="PostgresqlSQL" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original.svg" title="Doctrine"  alt="Doctrine" width="40" height="40"/>&nbsp;
   </div>
   
   <h3>Programming Languages & Framework</h3>
