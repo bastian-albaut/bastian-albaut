@@ -93,14 +93,6 @@
 
 <br/>
 
-## :fire: My Stats
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-albaut&theme=dark)
-  <br><br>
-  ![GitHub Top languages](https://github-stats-deploy-tau.vercel.app/api/top-langs/?username=bastian-albaut&hide=CSS,HTML,SCSS&langs_count=6&theme=dark)
-  <br><br>
-  ![GitHub Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bastian-albaut&theme=dark&utcOffset=1)
-
-<br/>
 
 <h2>:mag_right: Explore My Projects</h2>
 
